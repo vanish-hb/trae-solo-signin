@@ -1,0 +1,13 @@
+[2026-09-28 11:58:48] {"result": "ALREADY", "report": "今日已签过（今日 +150，含连签奖励 +50）", "credits": 150, "extra_credits": 50, "needs_attention": false}
+[2026-09-28 12:01:55] {"result": "ALREADY", "report": "今日已签过（今日 +150，含连签奖励 +50）", "credits": 150, "extra_credits": 50, "needs_attention": false}
+[2026-09-29 09:05:01] {"result": "CLAIMED", "report": "成功领取 150 积分（含连签奖励 +50）", "credits": 150, "extra_credits": 50, "needs_attention": false}
+[2026-09-30 09:05:01] {"result": "CLAIMED", "report": "成功领取 100 积分（含连签奖励 +100）", "credits": 100, "extra_credits": 100, "needs_attention": false}
+[2026-10-01 09:05:01] {"result": "CLAIMED", "report": "成功领取 100 积分（含连签奖励 +100）", "credits": 100, "extra_credits": 100, "needs_attention": false}
+[2026-10-02 09:05:01] {"result": "CLAIMED", "report": "成功领取 100 积分（含连签奖励 +100）", "credits": 100, "extra_credits": 100, "needs_attention": false}
+[2026-10-03 09:05:01] {"result": "CLAIMED", "report": "成功领取 100 积分（含连签奖励 +100）", "credits": 100, "extra_credits": 100, "needs_attention": false}
+[2026-10-04 09:05:01] {"result": "CLAIMED", "report": "成功领取 100 积分（含连签奖励 +100）", "credits": 100, "extra_credits": 100, "needs_attention": false}
+[2026-10-05 09:05:01] {"result": "CLAIMED", "report": "成功领取 100 积分（含连签奖励 +100）", "credits": 100, "extra_credits": 100, "needs_attention": false}
+[2026-10-06 09:05:01] {"result": "CLAIMED", "report": "成功领取 100 积分（含连签奖励 +100）", "credits": 100, "extra_credits": 100, "needs_attention": false}
+[2026-10-07 09:05:01] {"result": "CLAIMED", "report": "成功领取 100 积分（含连签奖励 +100）", "credits": 100, "extra_credits": 100, "needs_attention": false}
+[2026-10-08 09:07:50] {"result": "NETWORK", "report": "网络不可达，签到跳过，下次自动重试（[Errno 11001] getaddrinfo failed）", "needs_attention": true}
+[2026-10-08 09:54:11] {"result": "CLAIMED", "report": "成功领取 100 积分（含连签奖励 +100）", "credits": 100, "extra_credits": 100, "needs_attention": false}
